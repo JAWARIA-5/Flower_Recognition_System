@@ -1,8 +1,8 @@
 # 🌸 Flower_Recognition_System
-This project classifies 102 types of flowers using the alexNet model. Taking any flower (of the 102 types) the model will predict the top k classes the flower can belong to with probabilities of each class.
+This project classifies 102 types of flowers using the AlexNet model. Taking any flower (of the 102 types) the model will predict the top k classes the flower can belong to with probabilities of each class.
 
 <p align="center">
-  <img src="Model.png" width="90%" alt="Animated Preview">
+  <img src="model.png" width="90%" alt="Animated Preview">
 </p>
 
 ## Dataset
@@ -21,5 +21,5 @@ I tried the model a few times, and it seemed that 7 epochs gave good results. I 
 ## Results
 
 <p align="center">
-  <img src="Results.png" width="90%" alt="Animated Preview">
+  <img src="results.png" width="90%" alt="Animated Preview">
 </p>
